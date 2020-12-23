@@ -1,0 +1,41 @@
+.body_bg {
+    background-image: url(bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    border-style:solid;
+    border-color:blue;
+    border-width:10px;
+}
+h1 {
+    color:crimson;
+    font-weight:bolder;
+    font-family:cursive;
+    font-size:50px;
+    text-decoration: underline coral;
+}
+input {
+    background-color: rgba(0, 255, 128, 0.63);
+    font-size:20px;
+    color:navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+span {
+    color:mediumvioletred;
+    font-weight: 900;
+    font-size:20px;
+}
+#canvas_1 {
+    border-style: ridge;
+    border-width: 10px;
+}
+#clear_btn {
+    background-color: #e270e6;
+    color:white;
+    font-size:15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-style:solid;
+    border-color:indigo;
+    border-width:5px;
+}
